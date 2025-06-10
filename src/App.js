@@ -61,7 +61,7 @@ const BlogWebsite = () => {
       id: 1,
       title: "Building a Full-Stack E-commerce Platform",
       content: "This project involved creating a comprehensive e-commerce solution using React, Node.js, and MongoDB. The platform includes user authentication, product management, shopping cart functionality, and payment integration. One of the biggest challenges was implementing real-time inventory management and ensuring secure payment processing. The project taught me valuable lessons about scalable architecture and user experience design.",
-      imageUrl: "https://placehold.co/600x400/A7F3D0/10B981?text=E-commerce+Platform",
+      imageUrl: "",
       author: "Admin",
       date: "2024-06-01",
       readTime: "5 min read",
